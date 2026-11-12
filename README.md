@@ -17,7 +17,7 @@ A fast, private **photo gallery and image viewer for Windows 10 and 11** with a 
 
 ## Privacy
 
-Unique Gallery doesn't collect or share any personal data. Read the full [privacy policy](privacy.md).
+Unique Gallery doesn't collect or share any personal data. Read the full [privacy policy](https://dsjiffry.github.io/unique-gallery/privacy.html).
 
 ## Support
 
