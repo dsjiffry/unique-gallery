@@ -1,0 +1,15 @@
+title: Unique Gallery
+description: >-
+  Free Windows 11 photo gallery and image viewer with a no-repeat random slideshow,
+  HDR support and fast browsing of huge photo folders. Private and offline.
+url: https://dsjiffry.github.io
+baseurl: /unique-gallery
+author: dsjiffry
+lang: en
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag        # title/description/OpenGraph tags for search engines and link previews
+  - jekyll-sitemap        # /sitemap.xml for search engines
+  - jekyll-relative-links # privacy.md links become privacy.html
+exclude:
+  - README.md             # shown on the home page through index.md instead
